@@ -23,7 +23,9 @@ table {
 }
 
 th, td {
-    border: 1px solid #dddddd;
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+    border-right: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
 }
@@ -32,7 +34,7 @@ th {
     background-color: #f2f2f2;
 }
 
-picture img{
+figure img{
     width: 100%;
     margin: auto;
 }
@@ -69,4 +71,85 @@ footer {
 }
 figure {
     text-align: center;
+}
+th td, .borda-cabecalho{
+    border-left: solid 5px #f2f2f2;
+    padding-right: 0;
+    
+}
+
+th td, .borda1{
+    border-left: solid 5px #A9251E;
+    padding-right: 0;
+    
+}
+th td, .borda2{
+    border-left: solid 5px #303791;
+    padding-right: 0;
+    
+}
+th td, .borda3{
+    border-left: solid 5px #16584C;
+    padding-right: 0;
+    
+}
+th td, .borda4{
+    border-left: solid 5px #1C4D6B;
+    padding-right: 0;
+    
+}
+th td, .borda5{
+    border-left: solid 5px #000;
+    padding-right: 0;
+    
+}
+th td, .borda6{
+    border-left: solid 5px #90281D;
+    padding-right: 0;
+    
+}
+th td, .borda7{
+    border-left: solid 5px #BC8D42;
+    padding-right: 0;
+    
+}
+th td, .borda8{
+    border-left: solid 5px #59482E;
+    padding-right: 0;
+    
+}
+th td, .borda9{
+    border-left: solid 5px #1B5072;
+    padding-right: 0;
+    
+}
+th td, .borda10{
+    border-left: solid 5px #F17618;
+    padding-right: 0;
+    
+}
+th td, .borda11{
+    border-left: solid 5px #435751;
+    padding-right: 0;
+    
+}
+th td, .borda12{
+    border-left: solid 5px #59312F;
+    padding-right: 0;
+    
+}
+th td, .borda13{
+    border-left: solid 5px #55110d;
+    padding-right: 0;
+    
+}
+th td, .borda14{
+    border-left: solid 5px #1B1F1A;
+    padding-right: 0;
+    
+}
+th td, .borda15{
+    border-left: solid 5px #53110d;
+    padding-right: 0;
+    
 }
